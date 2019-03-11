@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.navbar{
+	background:#F97300;
+}
+body{
+
+	background-image: url("file:///D:/Users/Training/eclipse-workspace/Day18Html/images/back1.png") !important;
+	background:no-repeat;
+    background-size:cover; 
+}
